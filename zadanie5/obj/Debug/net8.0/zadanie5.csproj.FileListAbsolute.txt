@@ -1,0 +1,14 @@
+C:\Users\Павел\Desktop\Семинары\zadanie5\bin\Debug\net8.0\zadanie5.exe
+C:\Users\Павел\Desktop\Семинары\zadanie5\bin\Debug\net8.0\zadanie5.deps.json
+C:\Users\Павел\Desktop\Семинары\zadanie5\bin\Debug\net8.0\zadanie5.runtimeconfig.json
+C:\Users\Павел\Desktop\Семинары\zadanie5\bin\Debug\net8.0\zadanie5.dll
+C:\Users\Павел\Desktop\Семинары\zadanie5\bin\Debug\net8.0\zadanie5.pdb
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.dll
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\refint\zadanie5.dll
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.pdb
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.genruntimeconfig.cache
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\ref\zadanie5.dll

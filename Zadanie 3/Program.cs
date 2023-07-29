@@ -33,3 +33,7 @@ else if ( num1 == 6)
 {
     Console.WriteLine("Суббота");
 }
+else 
+{
+    Console. WriteLine ("Такого нет");
+}
