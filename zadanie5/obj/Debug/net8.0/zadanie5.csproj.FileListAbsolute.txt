@@ -12,3 +12,4 @@ C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\refint\za
 C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.pdb
 C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.genruntimeconfig.cache
 C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\ref\zadanie5.dll
+C:\Users\Павел\Desktop\Семинары\zadanie5\obj\Debug\net8.0\zadanie5.sourcelink.json
