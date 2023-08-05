@@ -6,9 +6,9 @@
 
 Random rand = new Random ();
 
-int num =rand.Next(10,100);
+int num =rand.Next(10,1000);
 
 int num1 = num/100;
-int num2 = num%10;
+int num2 = num%100;
 int result = num*10+num2;
 Console.WriteLine($"Рандомное число {result},результат {num}");
